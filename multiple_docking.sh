@@ -2,7 +2,6 @@
 
 # ============================================================
 # AutoDock Vina Multiple Molecular Docking Pipeline
-# Author: Shubhada Khare
 # Description:
 # Performs automated docking of multiple ligands against a
 # protein receptor using AutoDock Vina.
@@ -11,7 +10,7 @@
 # -------------------------
 # Batch Number
 # -------------------------
-BATCH_NUM=18
+BATCH_NUM=1
 
 # -------------------------
 # Directory Paths
