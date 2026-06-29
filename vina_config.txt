@@ -1,7 +1,5 @@
 ############################################################
 # AutoDock Vina Configuration File
-# Author : Shubhada Khare
-#
 # Description:
 # Configuration file specifying receptor coordinates,
 # search space dimensions, and docking parameters for
