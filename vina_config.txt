@@ -10,7 +10,7 @@
 # Receptor
 # -------------------------------
 
-receptor = /home/pc/Desktop/IRSHA_PROJECT/SLC7A11_7EPZ_chainB_receptor.pdbqt
+receptor = /home/pc/Desktop/IRSHA_PROJECT/Protein_receptor.pdbqt
 
 # -------------------------------
 # Grid Box Center Coordinates
