@@ -1,0 +1,39 @@
+############################################################
+# AutoDock Vina Configuration File
+# Author : Shubhada Khare
+#
+# Description:
+# Configuration file specifying receptor coordinates,
+# search space dimensions, and docking parameters for
+# AutoDock Vina.
+############################################################
+
+# -------------------------------
+# Receptor
+# -------------------------------
+
+receptor = /home/pc/Desktop/IRSHA_PROJECT/SLC7A11_7EPZ_chainB_receptor.pdbqt
+
+# -------------------------------
+# Grid Box Center Coordinates
+# -------------------------------
+
+center_x = 149.898
+center_y = 145.767
+center_z = 119.971
+
+# -------------------------------
+# Grid Box Dimensions (Å)
+# -------------------------------
+
+size_x = 38
+size_y = 29
+size_z = 27
+
+# -------------------------------
+# Docking Parameters
+# -------------------------------
+
+exhaustiveness = 32
+num_modes = 9
+energy_range = 3
